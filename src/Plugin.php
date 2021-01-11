@@ -20,4 +20,9 @@ class Plugin implements PluginInterface {
     {
         // TODO: Implement deactivate() method.
     }
+
+    public function uninstall(Composer $composer, IOInterface $io)
+    {
+        // TODO: Implement uninstall() method.
+    }
 }
