@@ -15,4 +15,9 @@ class Plugin implements PluginInterface {
         $installer = new ZendModuleInstaller($io, $composer);
         $composer->getInstallationManager()->addInstaller($installer);
     }
+
+    public function deactivate(Composer $composer, IOInterface $io)
+    {
+        // TODO: Implement deactivate() method.
+    }
 }
