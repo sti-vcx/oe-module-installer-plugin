@@ -1,3 +1,5 @@
+**This is a fork of the openemr module installer composer plugin that supports composer 2.***
+
 OpenEMR Module Composer Plugin installer that installs either Custom or Zend modules into the correct directory path using composer for an OpenEMR codebase.
 
 Developers who wish to use composer to install their plugins can include in their composer.json the following composer types
