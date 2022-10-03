@@ -1,14 +1,14 @@
 {
-    "name": "mi-squared/oe-module-installer-plugin",
+    "name": "sti-vcx/oe-module-installer-plugin",
     "description": "OpenEMR Module Installer plugin for installing custom modules into the OpenEMR codebase.",
     "type": "composer-plugin",
     "license": "GPL-3.0",
     "keywords": ["openemr", "openemr-module"],
     "authors": [
         {
-            "name": "Stephen Nielson",
-            "email": "stephen@nielson.org",
-	    "role": "Developer"
+            "name": "César Daer",
+            "email": "cesar_daer@id.uff.br",
+	        "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
